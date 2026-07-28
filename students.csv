@@ -1,0 +1,9 @@
+student_id,name,study_hours,attendance_pct,previous_score,passed
+1,Amit,5,90,72,1
+2,Sita,2,60,45,0
+3,Rita,8,95,88,1
+4,Bikash,,70,,0
+5,Puja,6,,79,1
+6,Kiran,1,55,,0
+7,Sunita,7,88,85,1
+8,Rohan,3,65,58,0
